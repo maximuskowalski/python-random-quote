@@ -5,6 +5,7 @@ Practicality beats purity
 Approachable is better than simple
 Mind your words, they are important
 Speak like a human
+Dance like a robot
 Half measures are as bad as nothing at all
 Encourage flow
 Non-blocking is better than blocking
